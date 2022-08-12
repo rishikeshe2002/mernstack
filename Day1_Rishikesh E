@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>RISHIKESH E | Web Designer | rishikeshe2002@gmail.com</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+
+
+</head>
+<body style="background-color:white">
+
+<div style="color:black">
+	<div>
+	
+		<div>
+			<div>
+				<div>
+					<h1>RISHIKESH E</h1>
+					<h2>Web Designer</h2>
+				</div>
+
+				<div>
+					<div>
+						<h3><a>rishikeshe2002@gmail.com</a></h3>
+						<h3>06380101214</h3>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<div>
+				<div>
+
+					<div>
+						<div>
+							<h2>Profile</h2>
+						</div>
+						<div>
+							<p>
+								<b>Hey! I'm RISHIKESH E.</b>
+							</p>
+							<p>
+							We love technology, so our work is nothing but our love.
+							</p>
+                                                        <p>
+							We are always ready to work hard in the process of making technology more powerful.
+							</p>
+						</div>
+					</div>
+
+					<div>
+						<div>
+							<h2>Skills</h2>
+						</div>
+						<div>
+												<ul>
+								<li>1. Good Analytic Skills</li>
+                                                                <li>2. Deep Logic Building & Problem Solving Skills</li>
+								<li>3. Great Understanding of Data Structures & Algorithms</li>
+								<li>4. Efficient coder in <whatever language you are good at C,Python,Ruby,Java,HTML etc...</li>
+                                                                <li>5. Sufficient knowledge about Computer Architecture & OS Concepts.</li>
+                                                                
+							</ul>
+						</div>
+					</div>
+
+					<div>
+						<div>
+							<h2>Technical</h2>
+						</div>
+						<div>
+							<ul>
+								<li>JAVA</li>
+                                                                <li>PYTHON</li>
+								<li>HTML</li>
+								<li>JAVASCRIPT</li>
+                                                                
+                                                                
+							</ul>
+
+							<ul>
+								<li>IOS</li>
+								<li>Windows</li>
+								<li>Linux</li>
+							</ul>
+						</div>
+					</div>
+					<div>
+						<div>
+							<h2>Education</h2>
+						</div>
+						<div>
+							<h3>Sathyabama Institute of Science and Technology, Tamil Nadu</h2>
+							<h3>B.E Computer Science and Engineering</h3>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<p>RISHIKESH E &mdash; <a>rishkeshe2002@gmail.com</a> &mdash; 06380101214</p>
+		</div>
+	</div>
+</div>
+<div style="color:black">
+	<div>
+	  <div>
+		<h2>Contact Me</h2>
+	  </div>
+	  <div>
+		<div>
+	  <div>
+		<label for="name" class="form-label fw-bolder">Name&nbsp;&nbsp;&nbsp;&nbsp;</label>
+		<input class="form-control" type="text" id="name" name="name" required>
+	  </div>
+	  <div>
+		<label for="email" class="form-label fw-bolder">Email&nbsp;&nbsp;&nbsp;&nbsp;</label>
+		<input class="form-control" type="email" id="email" name="_replyto" required>
+	  </div>
+	<div>
+	  <label for="message" class="form-label fw-bolder">Message</label>
+	  <textarea class="form-control" style="resize: none;" id="message" name="message" rows="4" required></textarea>
+	</div>
+	<button class="btn btn-primary mt-2" type="submit">Send</button>
+  </form>
+		  </div>
+		</div>
+		<div>
+		  <div>
+			<div>Want to avail my services!?</div>
+			<p>If you want my services then drop me a message using the contact form. </p>
+			<p>Or get in touch using my email.</p>
+			<p>bis bald!</p>
+		  </div>
+			<div> 
+			  <div>
+				<div>Email:</div>
+			  </div>
+			  <div>
+				<div>rishikeshe2002@gmail.com</div>
+				<li class="nav-item"><a class="nav-link" href=https://www.linkedin.com/in/rishikesh-e-29b22923a/ title="LinkedIn"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">LinkedIn</span></a></li>
+	
+			  </div>
+			</div>
+		</div>
+	</div>
+	
+  </div>
+		<div>
+		  <nav>
+			<ul>
+				  
+			</ul>
+		  </nav>
+		</div>
+
+</body>
+</html>
+
